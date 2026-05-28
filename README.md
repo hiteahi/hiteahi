@@ -43,10 +43,3 @@
 ## Connect With Me
 - GitHub: https://github.com/hiteahi
 - LinkedIn: https://www.linkedin.com/in/hiteahi
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hiteahi/hiteahi.git
-git push -u origin main
